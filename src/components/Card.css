@@ -1,0 +1,24 @@
+.Card{
+    background-color: white;
+    color: black;
+    border-radius: 10px;
+
+}
+#img{
+    border-radius: 10px;
+}
+.text{
+    margin: 10px;
+}
+h3{
+    margin-top: 5px;
+    margin-left: 5px;
+}
+a{
+    font-weight: bold;
+    font-size: smaller;
+}
+.Card:hover{
+    transform: scale(1.05);
+    transition: 1s;
+}
